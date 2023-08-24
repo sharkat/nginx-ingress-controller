@@ -1,1 +1,1 @@
-FROM cubefs/cbfs-base:1.0-golang-1.17.13
+FROM quay.io/ceph/ceph:v17.2.5
